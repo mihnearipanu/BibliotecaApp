@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.AbonatController">
+   <children>
+      <TableView fx:id="tableView" layoutX="77.0" layoutY="100.0" prefHeight="200.0" prefWidth="428.0">
+        <columns>
+          <TableColumn fx:id="tableColumnCod" prefWidth="64.66667938232422" text="Cod" />
+          <TableColumn fx:id="tableColumnTitlu" prefWidth="119.33332824707031" text="Titlu" />
+            <TableColumn fx:id="tableColumnAutor" prefWidth="125.99993896484375" text="Autor" />
+            <TableColumn fx:id="tableColumnDisponibilitate" prefWidth="118.0" text="Disponibilitate" />
+        </columns>
+      </TableView>
+      <Button layoutX="77.0" layoutY="335.0" mnemonicParsing="false" onAction="#handleAvailable" text="Vedeti In Stoc" />
+      <Button layoutX="253.0" layoutY="335.0" mnemonicParsing="false" onAction="#handleImprumuta" text="Imprumuta" />
+      <Button layoutX="449.0" layoutY="335.0" mnemonicParsing="false" onAction="#handleRefresh" text="Refresh" />
+      <Label layoutX="208.0" layoutY="47.0" text="Cartile noastre sunt afisate mai jos:" />
+   </children>
+</AnchorPane>

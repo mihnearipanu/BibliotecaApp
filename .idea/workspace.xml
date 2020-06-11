@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2080aec-080b-4a25-8626-0dfb0795fd4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="BazaISS" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="BazaISS" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="BazaISS" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bD3JVhRsjYzx8Ozhg1JriDzDD6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lab_ISS.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab ISS [dependencies]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2080aec-080b-4a25-8626-0dfb0795fd4d" name="Default Changelist" comment="" />
+      <created>1588152764038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588152764038</updated>
+      <workItem from="1588152769166" duration="3576000" />
+      <workItem from="1588250363324" duration="1424000" />
+      <workItem from="1590943390240" duration="13126000" />
+      <workItem from="1591021616559" duration="1485000" />
+      <workItem from="1591023231284" duration="1737000" />
+      <workItem from="1591026923238" duration="9139000" />
+      <workItem from="1591048664006" duration="3127000" />
+      <workItem from="1591106172129" duration="347000" />
+      <workItem from="1591112513710" duration="2289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#SQL_Dialects" timestamp="1591038713616">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#SQL_Dialects/0.0.1280.680@0.0.1280.680" timestamp="1591038713616" />
+    <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591021693615">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1591021693615" />
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser" timestamp="1591036394978">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1591036394978" />
+    <state x="50" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590944188194">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="50" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1590944188194" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1591021685676">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1591021685676" />
+    <state width="1237" height="170" key="GridCell.Tab.0.bottom" timestamp="1591116615313">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="170" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591116615313" />
+    <state width="1237" height="170" key="GridCell.Tab.0.center" timestamp="1591116615312">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="170" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591116615312" />
+    <state width="1237" height="170" key="GridCell.Tab.0.left" timestamp="1591116615312">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="170" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591116615312" />
+    <state width="1237" height="170" key="GridCell.Tab.0.right" timestamp="1591116615313">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="170" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591116615313" />
+    <state x="219" y="233" width="322" height="236" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1590996570579">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="219" y="233" width="322" height="236" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1280.680@0.0.1280.680" timestamp="1590996570579" />
+    <state x="679" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1591037468975">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="679" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1591037468975" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1591112518521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1591112518521" />
+    <state x="633" y="0" width="653" height="687" key="dock-window-1" timestamp="1591051794120">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="633" y="0" width="653" height="687" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1591051794120" />
+    <state x="633" y="0" width="653" height="687" key="dock-window-2" timestamp="1591051794120">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="633" y="0" width="653" height="687" key="dock-window-2/0.0.1280.680@0.0.1280.680" timestamp="1591051794120" />
+    <state x="51" y="106" key="extract.method.dialog" timestamp="1591050372193">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="51" y="106" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1591050372193" />
+    <state x="-23" y="154" key="run.anything.popup" timestamp="1591044789115">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-23" y="154" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1591044789115" />
+  </component>
+</project>

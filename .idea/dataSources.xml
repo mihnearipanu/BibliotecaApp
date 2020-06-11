@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="BazaISS" uuid="909d7eb0-3b3a-4c3a-b392-34b01a507cf3">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\ripan\Desktop\Lab 1 ISS\Lab ISS\ISSBazaDeDate</jdbc-url>
+    </data-source>
+  </component>
+</project>
